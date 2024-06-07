@@ -40,7 +40,7 @@ General options
 
 Command options
 * **text** Displayed text of status bar item.
-	> Supports unicode "icon" that can be found [here](https://unicode-table.com/).
+	> Supports unicode "icon" that can be found [here](https://symbl.cc/).
 	> Supports icons from [here](https://octicons.github.com/) e.g. `$(mark-github) Go To GitHub`
 * **command** Command content according to commandType:
 	- 'exec': executes command e.g 'npm run serve' (default).
